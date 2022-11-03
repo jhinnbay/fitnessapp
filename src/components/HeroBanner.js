@@ -13,7 +13,7 @@ const HeroBanner = () => (
         THE GYM!
       </Typography>
       <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
-        So Get Ready M’LUVVAHFUKKAHZ, It's Time To Grind!
+        Grind Bro Mindset, It's Time To Grind Bro.
       </Typography>
       <Stack>
         <a href="#exercises" style={{ marginTop: '45px', textDecoration: 'none', width: '200px', textAlign: 'center', background: '#FF2625', padding: '14px', fontSize: '22px', textTransform: 'none', color: 'white', borderRadius: '4px' }}>Explore Exercises</a>

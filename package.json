@@ -1,6 +1,6 @@
 {
-  "name": "fitness_app",
-  "homepage": ".",
+  "name": "fitness",
+  "homepage": "https://fitness-qf6t8mw2m-hurrachi.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
